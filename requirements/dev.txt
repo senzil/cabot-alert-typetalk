@@ -1,0 +1,5 @@
+mock==2.0.0
+pytest==4.1.0
+flake8==3.6.0
+pylint==2.2.2
+cabot==0.11.12
