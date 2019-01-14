@@ -61,5 +61,5 @@ build:
 
 upload:
 	@echo "${YELLOW}Uploading...${RESET}"
-	@twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+	@twine upload dist/*
 	@echo "${GREEN}✔ successfully uploaded${RESET}\n"

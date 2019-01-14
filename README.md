@@ -11,12 +11,6 @@ Enter the cabot virtual environment:
 $ pip install cabot-alert-typetalk
 ```
 
-or:
-
-```
-$ pip install git+git://github.com/is2ei/cabot-alert-typetalk.git
-```
-
 ## Enable plugin
 
 Edit conf/*.env
